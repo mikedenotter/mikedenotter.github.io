@@ -58,6 +58,15 @@ nav li {
 nav ul {
   display: inline;
 }
+
+
+
+nav a {
+  height: 60px;
+  line-height: 60px;
+  color: #204156;
+  text-decoration: none;
+}
 .button {
     background-color: #4CAF50; /* Green */
     border: none;
@@ -67,12 +76,4 @@ nav ul {
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-}
-
-
-nav a {
-  height: 60px;
-  line-height: 60px;
-  color: #204156;
-  text-decoration: none;
 }
